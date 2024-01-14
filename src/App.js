@@ -92,13 +92,13 @@ function App() {
           Hi!<span class="ml-4"></span>I'm James<span class="text-4xl font-extrabold text-yellow-400">;</span></h1>        
           <body class="mt-16 text-xl text-center lg:text-left">        
             <br/>
-            I’m currently a <span class="font-bold">Software Engineer</span> at Skyscanner. I love creating <span class="font-bold">scalable</span>, <span class="font-bold">performant</span> and <span class="font-bold">accessible</span> frontend products.
+            I’m currently a <span class="font-bold">Senior Software Engineer</span> at Skyscanner. I love creating <span class="font-bold">beautiful, scalable</span>, <span class="font-bold">performant</span> and <span class="font-bold">accessible</span> frontend products.
             <br/>
             <br/>
-            I mostly code in <span class="font-bold">JavaScript</span>, React specifically. I work regularly with Flow, Redux, Jest and Sass.
+            I mostly code in <span class="font-bold">JavaScript</span> (Typescript), React specifically. I work regularly with Redux, Jest and Sass.
             <br/>  
             <br/>  
-            I have strong professional experience in a variety of <span class="font-bold">infrastructure</span> and <span class="font-bold">data</span> services: ECS, S3, CloudFormation, Grafana, ELK, Bosun and OpenTSDB.
+            I'm really enthusiastic about anything <span class="font-bold">web performance</span> - talk to me about Lighthouse, Core Web Vitals and code splitting!
             <br/> 
           </body>
           <div class="flex justify-center lg:justify-between">
@@ -132,8 +132,14 @@ function App() {
          <h1 class="text-left text-6xl font-extrabold">Projects</h1>
          <p class="text-left text-md text-gray-600">
           <p class="mt-8">
-            <a href="https://www.skyscanner.net" class="font-bold underline">Skyscanner</a>- Core engineer on Skyscanner’s mobile web frontend
+            <a href="https://www.skyscanner.net" class="font-bold underline">Skyscanner</a> - Core engineer on Skyscanner’s largest frontend microsites
           </p>
+          <p class="mt-8">
+            <a href="https://www.skyscanner.net" class="font-bold underline">Klune</a> - Klune allows you to label images with interactive link tags, see <a href="https://klune.pages.dev" class="font-bold">klune.com</a>. Currently a work in progress.
+          </p>            
+          <p class="mt-8">
+            <a href="https://www.skyscanner.net" class="font-bold underline">Glenstack</a> - Glenstack was intended to be a marketplace for data exchange - accepted into the Pioneer accelerator. Now in hibernation. I Designed and implemented the landing page, <a href="https://www.glenstack.com" class="font-bold">glenstack.com</a>, as well as mockups for the planned product.
+          </p>          
           <p class="mt-8">
             <a href="https://github.com/bosun-monitor/bosun-grafana-app/pull/32/files" class="font-bold underline">Templating functionality in Bosun Grafana App</a> - Added templating to reduce complexity and learning curve involved in using the Bosun query language in Grafana.
           </p>
