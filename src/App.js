@@ -135,10 +135,10 @@ function App() {
             <a href="https://www.skyscanner.net" class="font-bold underline">Skyscanner</a> - Core engineer on Skyscanner’s largest frontend microsites
           </p>
           <p class="mt-8">
-            <a href="https://www.skyscanner.net" class="font-bold underline">Klune</a> - Klune allows you to label images with interactive link tags, see <a href="https://klune.pages.dev" class="font-bold">klune.com</a>. Currently a work in progress.
+            <a href="https://www.klune.co" class="font-bold underline">Klune</a> - Founded Klune, a service that allows you to label images with interactive link tags, see <a href="https://www.klune.co" class="font-bold">klune.co</a>. Currently a work in progress.
           </p>            
           <p class="mt-8">
-            <a href="https://www.skyscanner.net" class="font-bold underline">Glenstack</a> - Glenstack was intended to be a marketplace for data exchange - accepted into the Pioneer accelerator. Now in hibernation. I Designed and implemented the landing page, <a href="https://www.glenstack.com" class="font-bold">glenstack.com</a>, as well as mockups for the planned product.
+            <a href="https://www.glenstack.com" class="font-bold underline">Glenstack</a> - Glenstack was intended to be a marketplace for data exchange - accepted into the Pioneer accelerator. Now in hibernation. I Designed and implemented the landing page, <a href="https://www.glenstack.com" class="font-bold">glenstack.com</a>, as well as mockups for the planned product.
           </p>          
           <p class="mt-8">
             <a href="https://github.com/bosun-monitor/bosun-grafana-app/pull/32/files" class="font-bold underline">Templating functionality in Bosun Grafana App</a> - Added templating to reduce complexity and learning curve involved in using the Bosun query language in Grafana.
